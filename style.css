@@ -1,0 +1,156 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #232f3e;
+    color: white;
+}
+.location img{
+    width: 30px;
+}
+.logo img {
+    width: 120px;
+}
+
+.search-bar {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    margin: 0 20px;
+}
+
+.search-bar input {
+    width: 400px;
+    padding: 10px;
+    border: none;
+}
+
+.search-bar button {
+    padding: 10px 20px;
+    background-color: #febd69;
+    border: none;
+    cursor: pointer;
+}
+.india img{
+    width: 30px;
+    height: 20px;
+    float: left;
+    margin-left: 10px;
+}
+.signin{
+    font-weight: bold;
+}
+.user-options {
+    display: flex;
+    align-items: center;
+}
+
+.user-options span {
+    margin-left: 20px;
+    cursor: pointer;
+}
+.Back{
+    background-image: url('your-image.jpg');
+    background-size: cover;
+    background-position: center;
+ } 
+body {
+       font-family: Arial, sans-serif;
+}
+header {
+    background-color: #232f3e;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+nav {
+    position: relative;
+}
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+.product {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    background-color: #232f3e;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.ham img{
+    float: left;
+    margin-left: 10px;
+}
+.topbar img{
+    float: right;
+    padding-right: 1px;
+}
+.nav-bar {
+    background-color: #37475a;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+}
+.nav-bar ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+.nav-bar ul li a:hover {
+    color: #ff9900;
+}
+.product-section {
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
